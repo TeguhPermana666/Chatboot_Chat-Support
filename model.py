@@ -16,5 +16,5 @@ class NeuralNet(nn.Module):
         out = self.l2(x)
         out = self.relu(out)
         out = self.l3(out)
-        # no activation and no softmax at the end bcs that's for 
+        # no activation and no softmax at the end bcs that's for get patterns from sentences
         return out
