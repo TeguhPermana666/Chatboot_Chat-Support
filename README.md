@@ -29,8 +29,9 @@ Run
 This will dump data.pth file. And then run the following command to test it in the console.
 
 - (venv) python chat.py
-Now for deployment follow my tutorial to implement app.py and app.js.
+Now for deployment to implement app.py and app.js.
 
 - Output :
+
 ![output_model](https://user-images.githubusercontent.com/87234353/209307009-94635f58-0f9f-4a68-bcfe-c3fb026305d7.jpeg)
 
