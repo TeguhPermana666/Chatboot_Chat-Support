@@ -51,7 +51,7 @@
             "patterns": [
                 "Which items do your have?",
                 "What kinds of items are there?",
-                "What do your sell?"
+                "What do you sell?"
             ],
             "responses":[
                 "We sell coffe and tea",
